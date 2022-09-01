@@ -1,1 +1,3 @@
 # testeGitFork
+
+Arquivo com colaboração recebida ...
